@@ -1,0 +1,7 @@
+
+**Write a brief document outlining how you would secure this pipeline and ensure data confidentiality, integrity, and accessibility.**
+ 1.AWS S3 Access Control (Authentication)
+ 2.Use SSL/TLS encryption for data transmitted over the network
+ 3.Cloud Provider Monitoring Tools
+ 4.Secure Data Processing (Input Validation & Code Security)
+Regular Backups
